@@ -15,7 +15,7 @@ yarn # or npm install
 ### 2. Create .env file and add the SB Access Token & Resend API_Key
 
 ```
-STORYBLOK_API_TOKEN=<Preview_Token_From_Your_Space_For_Local_Env>
+NEXT_PUBLIC_STORYBLOK_API_TOKEN=<Preview_Token_From_Your_Space_For_Local_Env>
 RESEND_API_KEY=<Resend_Api_Key_Generated>
 TESTING_EMAIL_ADDRESS=<Your_Email_Address_To_Receive_Results>
 ```
